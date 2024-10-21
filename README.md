@@ -7,3 +7,7 @@ This project involves the design of a user-friendly and visually appealing email
 - Call-to-Action (CTA): Strategically placed buttons and links to drive user engagement.
 # Tool Used:
 - Miro
+  
+linkedln https://www.linkedin.com/posts/jophinipm_codsoft-internship-uiux-activity-7254130103712915457-bw6t?utm_source=share&utm_medium=member_desktop
+
+EmailTemplate https://miro.com/app/board/uXjVLQQljYA=/?share_link_id=865085226376
